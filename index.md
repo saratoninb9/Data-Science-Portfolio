@@ -11,7 +11,7 @@ Developed an anomaly detection system to identify fraudulent activity in the Por
 
 **Anomaly detection interactive platform:** the project resulted in a user-friendly platform integrating the statistical methods and AI models I developed with graph analytics and interactive visualization, enabling IGAMAOT inspectors to use the methodology directly, to identify suspicious companies that should be prioritized in the annual inspection plan, and to analyse the activity of companies they have themselves deemed as suspicious.
 
-[Presentation](https://github.com/saratoninb9/Data-Science-Portfolio/blob/3ac7f73cfcdc270d9b7c1032e5454ff52999d924/AnomalyDetectionplatform_Presentation.pdf) · [Data Pipeline Code](https://github.com/saratoninb9/Data-Science-Portfolio/blob/3ac7f73cfcdc270d9b7c1032e5454ff52999d924/Data_pipeline.py)
+<a href="https://github.com/saratoninb9/Data-Science-Portfolio/blob/3ac7f73cfcdc270d9b7c1032e5454ff52999d924/AnomalyDetectionplatform_Presentation.pdf" target="_blank" rel="noopener noreferrer">Presentation</a> · <a href="https://github.com/saratoninb9/Data-Science-Portfolio/blob/3ac7f73cfcdc270d9b7c1032e5454ff52999d924/Data_pipeline.py" target="_blank" rel="noopener noreferrer">Data Pipeline Code</a>
 
 ### Publications
 
