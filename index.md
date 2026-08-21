@@ -1,3 +1,8 @@
+---
+layout: default
+title: Data Science Portfolio
+---
+
 # by Sara Oliveira
 
 ---
