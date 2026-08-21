@@ -1,10 +1,6 @@
 ---
 layout: default
-title: Data Science Portfolio
----
-
-# by Sara Oliveira
-
+title: Data Science Portfolio - by Sara Oliveira
 ---
 
 ## Research Scholarship Project: Anomaly Detection in Waste Transport Networks
